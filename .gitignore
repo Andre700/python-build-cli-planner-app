@@ -63,3 +63,9 @@ typings/
 
 # next.js build output
 .next
+
+.idea
+src/__pycache__
+tests/__pycache__
+reminders.csv
+__pycache__/app.cpython-311.pyc
